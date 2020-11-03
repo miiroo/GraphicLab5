@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab5\graphiclab5\source.cpp(29): warning C4101: z: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab5\graphiclab5\source.cpp(29): warning C4101: y: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab5\graphiclab5\source.cpp(29): warning C4101: x: неиспользованная локальная переменная
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab5\graphiclab5\source.cpp(97): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\miroo\documents\visual studio 2015\projects\graphiclab5\graphiclab5\source.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+  GraphicLab5.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab5\Debug\GraphicLab5.exe
+  GraphicLab5.vcxproj -> c:\users\miroo\documents\visual studio 2015\Projects\GraphicLab5\Debug\GraphicLab5.pdb (Full PDB)
